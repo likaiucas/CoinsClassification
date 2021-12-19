@@ -16,4 +16,4 @@ Secondly, we leverage a lite network, mobilenet, to classify the extracted small
 ## Future Try
 We will try a new approach, utilizing YOLOv5 serial networks. Detection networks provid an end to end framework, which has an absolute better performance. 
 
-NOTE: worth to mention, a part of my code got reference from 
+NOTE: worth to mention, a part of my code got reference from https://www.kaggle.com/kmader/mobilenet-classification. 
