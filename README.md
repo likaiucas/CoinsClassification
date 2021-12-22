@@ -31,7 +31,7 @@ Screenshot: Testing
 
 Screenshot: Example of datasets for training the model
 
-![ProcessedImg]("https://github.com/CoolbreezeKevin/CoinsClassification/tree/master/ProcessedImg.jpg")
+![ProcessedImg]("ProcessedImg.jpg")
 
 As picture showed, the left part is a randomly selected image of coins, and the right part is the inference result of which. 
 
