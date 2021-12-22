@@ -31,7 +31,9 @@ Screenshot: Testing
 
 Screenshot: Example of datasets for training the model
 
-<img src="https://github.com/earthsaharat/Thai-coin-detection/blob/main/trained/trained_v1-7_set1%2B2_81img_500e/train_batch2.jpg" width="50%">
+![ProcessedImg](yolov5\ProcessedImg.jpg)
+
+As picture showed, the left part is a randomly selected image of coins, and the right part is the inference result of which. 
 
 
 ## References
