@@ -21,9 +21,9 @@ Python 3.8 or later with all yolov5/requirements.txt dependencies installed, inc
 pip3 install -r yolov5/requirements.txt
 ```
 
-## Screenshot
+## Testing and Inferece
 
-Screenshot: Testing
+Image Testing 
 
 <img src="https://github.com/earthsaharat/Thai-coin-detection/blob/main/screenshot/thumbnail-square.png" width="50%">
 <img src="https://github.com/earthsaharat/Thai-coin-detection/blob/main/screenshot/Screen%20Shot%202563-11-26%20at%2006.03.25.png" width="50%">
