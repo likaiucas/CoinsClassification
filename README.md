@@ -29,7 +29,7 @@ Edge Detected:
 
 Hough Circle:
 
-
+<img src="https://github.com/CoolbreezeKevin/CoinsClassification/blob/main/out.jpg" width="50%">
 
 Detected Bondingboxes:
 
@@ -38,3 +38,4 @@ Detected Bondingboxes:
 Delect Using NMS and priori knowledge:
 
 <img src="https://github.com/CoolbreezeKevin/CoinsClassification/blob/main/Delected.jpg" width="50%">
+The Blue boxes are remained. 
