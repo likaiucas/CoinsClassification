@@ -21,8 +21,14 @@ We will try a new approach, utilizing YOLOv5 serial networks. Detection networks
 UPDATE: With the help of the existed project https://github.com/earthsaharat/Thai-coin-detection, we edited part of its code, and after our exam, this programme provides a more robust result compared with the former. 
 
 ## Result Illustrate
+
+
+Edge Detected:
+
+<img src="https://github.com/CoolbreezeKevin/CoinsClassification/blob/main/edge.jpg" width="50%">
+
 Detected Bondingboxes:
-<img src="https://github.com/CoolbreezeKevin/CoinsClassification/blob/master/ProcessedImg.jpg" width="50%">
 
 Delect Using NMS and priori knowledge:
-<img src="https://github.com/CoolbreezeKevin/CoinsClassification/blob/master/ProcessedImg.jpg" width="50%">
+
+<img src="https://github.com/CoolbreezeKevin/CoinsClassification/blob/main/Delected.jpg" width="50%">
