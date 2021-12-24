@@ -27,7 +27,13 @@ Edge Detected:
 
 <img src="https://github.com/CoolbreezeKevin/CoinsClassification/blob/main/edge.jpg" width="50%">
 
+Hough Circle:
+
+
+
 Detected Bondingboxes:
+
+<img src="https://github.com/CoolbreezeKevin/CoinsClassification/blob/main/NotDelect.jpg" width="50%">
 
 Delect Using NMS and priori knowledge:
 
