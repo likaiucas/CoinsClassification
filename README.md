@@ -27,7 +27,7 @@ Edge Detected:
 
 <img src="https://github.com/CoolbreezeKevin/CoinsClassification/blob/main/edge.jpg" width="50%">
 
-Hough Circle:
+Hough Circle: At very beginning, we want to use this method to extract the coins, but gradually I find that this algorithm excessively rely on the quality of the edge detection. Apart from this, controlling the input parameter also make this stratage unrobust. So, I give up this pipeline. 
 
 <img src="https://github.com/CoolbreezeKevin/CoinsClassification/blob/main/out.jpg" width="50%">
 
