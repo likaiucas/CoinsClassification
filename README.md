@@ -19,3 +19,10 @@ NOTE: worth to mention, a part of my code got reference from https://www.kaggle.
 We will try a new approach, utilizing YOLOv5 serial networks. Detection networks provid an end to end framework, which has an absolute better performance. 
 
 UPDATE: With the help of the existed project https://github.com/earthsaharat/Thai-coin-detection, we edited part of its code, and after our exam, this programme provides a more robust result compared with the former. 
+
+## Result Illustrate
+Detected Bondingboxes:
+<img src="https://github.com/CoolbreezeKevin/CoinsClassification/blob/master/ProcessedImg.jpg" width="50%">
+
+Delect Using NMS and priori knowledge:
+<img src="https://github.com/CoolbreezeKevin/CoinsClassification/blob/master/ProcessedImg.jpg" width="50%">
