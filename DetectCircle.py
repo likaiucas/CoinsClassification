@@ -55,6 +55,7 @@ edged = cv2.Canny(blurred, 30, 150)
 # cv2.imshow("edged",edged)
 # cv2.imwrite('edge.jpg', edged)
 
+###新加入
 kernel =cv2.getStructuringElement(cv2.MORPH_RECT, (9, 9))
 edged = cv2.dilate(edged, kernel) #膨胀
 cv2.imwrite('edge2.jpg', edged)
