@@ -55,6 +55,12 @@ edged = cv2.Canny(blurred, 30, 150)
 # cv2.imshow("edged",edged)
 # cv2.imwrite('edge.jpg', edged)
 
+kernel =cv2.getStructuringElement(cv2.MORPH_RECT, (9, 9))
+edged = cv2.dilate(edged, kernel) #膨胀
+cv2.imwrite('edge2.jpg', edged)
+edged = cv2.dilate(edged, kernel) #膨胀
+cv2.imwrite('edge3.jpg', edged)
+
 (cnts,_) = cv2.findContours(edged.copy(),cv2.RETR_EXTERNAL,cv2.CHAIN_APPROX_SIMPLE)
 print("There are {} protential coins in the image".format(len(cnts)))
 
